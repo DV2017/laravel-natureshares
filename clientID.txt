@@ -1,0 +1,8 @@
+Deepas-MacBook-Pro:waardevol-Auth-Passport deepavarma$ php artisan passport:install
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client secret: WUAM0KhEhiQvuDb7tzKucJqrt6SNfE6gBap2Oora
+Password grant client created successfully.
+Client ID: 2
+Client secret: VmPqjER0vnCqFbUg7gWK0PmIcJsvz0J43i8gsvm2
